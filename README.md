@@ -67,7 +67,6 @@ And after cleaning we have performed the transformation on  the cleaned data.
 Now we will do analysis in order to find the out the trend for revenue, bookings and type of hotel. This analysis can help companies to better understand their customer and market needs which will help them to
 improve operational efficiency and optimzie the revenue. <br>
 
-![image](https://github.com/user-attachments/assets/f085fcf8-c036-4a5c-89f0-536064eb231a)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f085fcf8-c036-4a5c-89f0-536064eb231a" alt="Image Description" />
